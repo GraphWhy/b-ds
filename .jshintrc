@@ -1,0 +1,14 @@
+{
+  "camelcase" : true,
+  "indent": 2,
+  "undef": true,
+  "quotmark": "single",
+  "maxlen": 80,
+  "trailing": true,
+  "curly": true,
+  "asi": true,
+  "predef": ["console", "module", "require", "__dirname", "process", "Buffer"],
+  "globalstrict": true,
+  "laxcomma" : true,
+  "multistr" : true
+}
